@@ -1,1 +1,1 @@
-# Sistema-B-sico-de-Control-de-Sem-foros-para-una-Avenida-de-Lima-Metropolitana
+# Sistema de Control de Semáforos para una Avenida de Lima Metropolitana
